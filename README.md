@@ -1,0 +1,1 @@
+First we collected the data by taking pictures of greek cars with their license plate. Then we annotated the dataset with Roboflow . We used YOLOV8 and trained it in this dataset .The results are very accurate.
